@@ -35,7 +35,8 @@ Se diseñaron y ejecutaron casos de prueba incluyendo:
 - Escenarios positivos  
 - Escenarios negativos  
 - Resultados esperados vs obtenidos  
-
+Los casos de prueba pueden visualizarse en el archivo:
+📄 Casos de Prueba Cintia Diaz.xlsx
 ---
 
 ## 🐞 Bugs detectados
